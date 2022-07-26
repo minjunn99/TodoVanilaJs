@@ -1,4 +1,4 @@
-import TodoItem from "./components/todoItem.js";
+import TodoItem from "./todoItem.js";
 
 // Variables
 let todoList = document.querySelector("#todoList");
