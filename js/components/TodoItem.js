@@ -1,4 +1,4 @@
-export default class TodoItem {
+class TodoItem {
     constructor(
         obj = {
             id: Number,

@@ -1,5 +1,3 @@
-import TodoItem from "./components/todoItem.js";
-
 // Variables
 let todoList = document.querySelector("#todoList");
 let todoInput = document.querySelector("#todoInput");
